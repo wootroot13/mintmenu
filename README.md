@@ -1,0 +1,4 @@
+mintmenu
+========
+
+Advanced MATE menu
